@@ -2,5 +2,68 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-api/1.1.11.Final/arquillian-container-test-api-1.1.11.Final.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.jboss.arquillian.container"/>
+			<attribute name="maven.artifactId" value="arquillian-container-test-api"/>
+			<attribute name="maven.version" value="1.1.11.Final"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/testng/testng/6.8/testng-6.8.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="6.8"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/jboss/arquillian/testng/arquillian-testng-core/1.1.11.Final/arquillian-testng-core-1.1.11.Final.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.jboss.arquillian.testng"/>
+			<attribute name="maven.artifactId" value="arquillian-testng-core"/>
+			<attribute name="maven.version" value="1.1.11.Final"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/jboss/arquillian/graphene/graphene-webdriver-api/2.1.0.CR2/graphene-webdriver-api-2.1.0.CR2.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.jboss.arquillian.graphene"/>
+			<attribute name="maven.artifactId" value="graphene-webdriver-api"/>
+			<attribute name="maven.version" value="2.1.0.CR2"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="2.53.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/jboss/arquillian/extension/arquillian-drone-api/2.0.0.Final/arquillian-drone-api-2.0.0.Final.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.jboss.arquillian.extension"/>
+			<attribute name="maven.artifactId" value="arquillian-drone-api"/>
+			<attribute name="maven.version" value="2.0.0.Final"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I342580/.m2/repository/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="2.53.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

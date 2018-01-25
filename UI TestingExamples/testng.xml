@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Product" verbose="10" thread-count="10" preserve-order="false" configfailurepolicy="continue">
+    <test name="Product - Create Project and Subproject set up ">
+        <classes>
+            <class name="com.sap.sol.product.ProductSuite"/>
+        </classes>
+    </test>
+</suite>
